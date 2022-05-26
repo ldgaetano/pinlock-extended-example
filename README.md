@@ -8,4 +8,9 @@ Grantor/beneficiary pinlock example using the ergo-python-appkit library.
 3. [Ergo Python Appkit Contract Test Case](test/test_pinlock-extended.py)
 
 ## Usage
+
 `pip install -r requirements.txt`
+
+## Acknowledgements
+
+This project is based off of the [ErgoScript-By-Example Grantor/Beneficiary](https://github.com/ergoplatform/ergoscript-by-example/blob/main/grantorBeneficiaryPinLock.md) example.
